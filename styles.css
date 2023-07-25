@@ -155,6 +155,8 @@
 .gif-container {
   display: fixed;
   justify-content: center;
-  align-items: center;
+  align-items: center;[
+  position: center;
   height: 100vh;
+  
 }
