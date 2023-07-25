@@ -135,9 +135,9 @@
 
 .gif-wrapper {
   position: relative;
-  width: 70%;
+  width: 110%;
   height: 0;
-  padding-bottom: 56.25%; 
+  padding-bottom: 65.25%; 
   overflow: hidden;
 }
 
